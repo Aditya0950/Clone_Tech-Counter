@@ -79,11 +79,10 @@ body {
 #Loader h1 {
     font-size: 5vw;
     font-weight: var(--h1weight);
-    color: transparent;
+    color: white;
     position: absolute;
     opacity: 0;
     animation: load 1s linear;
-    -webkit-text-stroke: 1px white;
 }
 
 /* This is for selection of text */
